@@ -6,4 +6,4 @@
       Multiplication
       Division
       Power Function
-      Squareroot function
+      Squareroot function.
